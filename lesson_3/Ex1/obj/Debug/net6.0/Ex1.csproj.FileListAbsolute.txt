@@ -1,0 +1,5 @@
+/Users/gennadj/Desktop/C#/Лекция/lesson_3/Ex1/obj/Debug/net6.0/Ex1.csproj.AssemblyReference.cache
+/Users/gennadj/Desktop/C#/Лекция/lesson_3/Ex1/obj/Debug/net6.0/Ex1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gennadj/Desktop/C#/Лекция/lesson_3/Ex1/obj/Debug/net6.0/Ex1.AssemblyInfoInputs.cache
+/Users/gennadj/Desktop/C#/Лекция/lesson_3/Ex1/obj/Debug/net6.0/Ex1.AssemblyInfo.cs
+/Users/gennadj/Desktop/C#/Лекция/lesson_3/Ex1/obj/Debug/net6.0/Ex1.csproj.CoreCompileInputs.cache
